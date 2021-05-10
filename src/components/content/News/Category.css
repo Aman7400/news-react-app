@@ -1,0 +1,19 @@
+.news-item > a {
+  text-decoration: none;
+  font-size: 2rem;
+
+  color: black;
+  font-family: "'Open Sans', sans-serif";
+}
+.news-item,
+.news-item > a {
+  transition: all 0.8s ease-in-out;
+}
+.news-item:hover {
+  background: black;
+  padding: 0.5rem;
+  border-radius: 1rem;
+}
+.news-item:hover > a {
+  color: white;
+}

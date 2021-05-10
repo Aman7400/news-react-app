@@ -1,0 +1,14 @@
+.navbar {
+  background-color: black;
+  font-family: "Yeseva One", cursive;
+  width: 100vw;
+  min-height: 8vh;
+  height: auto;
+
+  position: fixed;
+  top: 0;
+  z-index: 2;
+}
+.fa-search {
+  margin: 1rem;
+}
